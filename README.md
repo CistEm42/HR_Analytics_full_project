@@ -100,4 +100,5 @@ The Streamlit app allows users to:
 Author
 
 John Emmanuel Durosimi Terry
+
 Data Scientist | Machine Learning Engineer
